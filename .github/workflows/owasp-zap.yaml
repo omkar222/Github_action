@@ -1,6 +1,7 @@
 name: OWASP ZAP integration with github action
-on: [push]
-
+on: 
+  workflow_dispatch: 
+  
 jobs:
   zap_scan:
     runs-on: ubuntu-latest
