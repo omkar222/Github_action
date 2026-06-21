@@ -4,3 +4,7 @@ git add=> stage a file
 git rm --catched => to unstage file
 git commit -m => track file
 git restore => restore deleted file
+git remote add origin https://github.com/omkar222/github_action.git
+git remote -v
+git remote set-url origin https://Pattoken@github.com/omkar222/github_action.git
+git push origin master
