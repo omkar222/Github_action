@@ -1,0 +1,6 @@
+git init=> to initialize
+git status=> to see status
+git add=> stage a file
+git rm --catched => to unstage file
+git commit -m => track file
+git restore => restore deleted file
